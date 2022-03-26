@@ -1,0 +1,9 @@
+package day0;
+
+public class JB{
+
+public static void main(String[] args){
+
+System.out.printLn("James Bond hacked the project");
+}
+}
